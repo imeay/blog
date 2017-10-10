@@ -2,6 +2,9 @@
 
 ## shell环境
 * [记录 zsh 及 oh-my-zsh 的配置](https://github.com/imeay/blog/issues/6)
+* [shell 命令之 wc](https://github.com/imeay/blog/issues/7)
+* [shell 命令之 grep](https://github.com/imeay/blog/issues/8)
+* [shell 命令之 uniq、sort](https://github.com/imeay/blog/issues/9)
 
 ## 开发
 ### 接口相关
