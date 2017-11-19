@@ -16,3 +16,6 @@
 ### 辅助开发
 * [lodash提升开发效率](https://github.com/imeay/blog/issues/4)
 
+### 微信、QQ 开发相关
+* [网页端接入QQ登录笔记](https://github.com/imeay/blog/issues/11)
+
