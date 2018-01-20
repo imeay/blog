@@ -9,6 +9,7 @@
 ## 开发
 ### 接口相关
 * [接口设计](https://github.com/imeay/blog/issues/1)
+* [接口规范推荐](https://github.com/imeay/blog/issues/12)
 
 ### Mysql
 * [Typeorm使用小记](https://github.com/imeay/blog/issues/2)
