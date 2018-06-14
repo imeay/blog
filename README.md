@@ -24,6 +24,11 @@
 ### 辅助开发
 * [lodash提升开发效率](https://github.com/imeay/blog/issues/4)
 
-### 微信、QQ 开发相关
+### oauth2 开发相关
+#### oauth2 协议及文档
+#### 微信
+* [网页端接入微信登录](https://github.com/imeay/blog/issues/18)
+#### qq
 * [网页端接入QQ登录笔记](https://github.com/imeay/blog/issues/11)
+
 
