@@ -6,7 +6,8 @@
 * [shell 命令之 grep](https://github.com/imeay/blog/issues/8)
 * [shell 命令之 uniq、sort](https://github.com/imeay/blog/issues/9)
 
-## 开发
+## 开发实践
+* [node ons 之集群模式下模拟广播消费](https://github.com/imeay/blog/issues/20)
 
 ## 语言
 ### kotlin
