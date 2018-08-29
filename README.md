@@ -11,7 +11,8 @@
 
 ## 语言
 ### kotlin
-* [变量，常量，函数](https://github.com/imeay/blog/issues/14) 
+* [变量，常量，函数](https://github.com/imeay/blog/issues/14)
+* [lambda](https://github.com/imeay/blog/issues/27)
 
 ## 接口相关
 * [接口设计](https://github.com/imeay/blog/issues/1)
