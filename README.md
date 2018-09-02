@@ -13,6 +13,7 @@
 ### kotlin
 * [变量，常量，函数](https://github.com/imeay/blog/issues/14)
 * [lambda](https://github.com/imeay/blog/issues/27)
+* [集合的函数式API](https://github.com/imeay/blog/issues/29)
 
 ## 接口相关
 * [接口设计](https://github.com/imeay/blog/issues/1)
