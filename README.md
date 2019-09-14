@@ -27,15 +27,15 @@
 * [Typeorm使用小记](https://github.com/imeay/blog/issues/2)
 * [mybatis使用记录](https://github.com/imeay/blog/issues/15)
 
+## 微信
+* [网页端接入微信登录](https://github.com/imeay/blog/issues/18)
+* [微信小程序开发](https://github.com/imeay/blog/issues/35)
+* [微信支付配置](https://github.com/imeay/blog/issues/36)
+
+## qq
+* [网页端接入QQ登录笔记](https://github.com/imeay/blog/issues/11)
 
 ## 辅助开发
 * [lodash提升开发效率](https://github.com/imeay/blog/issues/4)
-
-## oauth2 开发相关
-### oauth2 协议及文档
-#### 微信
-* [网页端接入微信登录](https://github.com/imeay/blog/issues/18)
-#### qq
-* [网页端接入QQ登录笔记](https://github.com/imeay/blog/issues/11)
 
 
