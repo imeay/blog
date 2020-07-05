@@ -10,6 +10,8 @@
 * [node ons 之集群模式下模拟广播消费](https://github.com/imeay/blog/issues/20)
 
 ## 语言
+### jjs
+* [由数字00在正则表现引发的源码研究](https://github.com/imeay/blog/issues/40)
 ### kotlin
 * [变量，常量，函数](https://github.com/imeay/blog/issues/14)
 * [lambda](https://github.com/imeay/blog/issues/27)
